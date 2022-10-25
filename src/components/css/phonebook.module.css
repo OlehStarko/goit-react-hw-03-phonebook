@@ -104,11 +104,10 @@ a {
 }
 .add__button:hover {
   transform: scale(1.05);
-  background-color: #ff6c03;
-  color: #fff;
+  background-color: #ff9900;
 }
 .contact__list {
-  width: 600px;
+  width: 704px;
   margin-top: 25px;
   margin-left: auto;
   margin-right: auto;
@@ -118,7 +117,7 @@ a {
 
 .contact__item {
   position: relative;
-  width: 247px;
+  width: 300px;
   height: 64px;
   display: flex;
   /* justify-content: space-between; */
@@ -161,6 +160,5 @@ a {
   transition: all 0.2s;
 }
 .delete__button:hover {
-  background-color: #ff6c03;
-  fill: #fff;
+  background-color: #ff9900;
 }
